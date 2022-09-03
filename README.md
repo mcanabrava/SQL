@@ -1,4 +1,4 @@
-# SQL
+## SQL
 SQL exercises
 
 Repository containing SQL exercises Main topics covered:
